@@ -52,3 +52,11 @@ Analysis happens entirely on-device.
 
 🎨 Design Philosophy
 Aura follows Neu-Glassmorphic principles. Every element is designed to feel like a physical object made of light and frosted glass, utilizing blur effects and translucent materials to ensure the UI feels part of the user's physical space.
+
+<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 17 Pro - 2026-02-10 at 16 00 46" src="https://github.com/user-attachments/assets/c9f8256a-ed46-481f-8c03-89e75647e748" />
+<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 17 Pro - 2026-02-10 at 16 00 40" src="https://github.com/user-attachments/assets/8b691145-efd4-4039-8f29-701042d82724" />
+<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 17 Pro - 2026-02-10 at 16 00 36" src="https://github.com/user-attachments/assets/4681779d-6d7c-4157-bd4b-3e1e0be498ed" />
+
+
+
+
